@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+
+    background-color: #F593C1;
+    color: white;
+}
+
+span{
+    color:green;
+    text-decoration: underline;
+}
+
+.container{
+margin: 12%;
+width: 90%;
+max-width: 700px;
+color: green;
+}
+
+.display{
+    padding-top: 20px;
+    box-sizing: border-box;
+   /* background-color: antiquewhite;*/
+   display: flex;
+    align-items: center;
+
+   /* font-size: 50px;
+    cursor: pointer;
+    width: 50px; 
+    height: 50px; 
+    display: flex;
+ */
+}
+
+input{ font-size: 40px;
+border: 0;
+outline: 0;
+text-align: center;
+
+}
+i{font-size: 25px;
+    cursor: pointer;
+    width: 50px; 
+    height: 50px; 
+    display: flex;
+    padding-top: 12px;
+background-color: white;}
+
+#button{
+ width: 28px;
+ margin-right: 10px;
+}
+
+.pick{  
+  
+   width: 300px;
+  margin-top: 20px;
+       
+}
+
+.pick button {
+  
+    border: 0;
+    outline: 0;
+    background-color: palegreen;
+    color: black;
+    column-rule: #fff;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    border-radius: 1rem;
+    padding: 16px 26px;
+    cursor: pointer;
+
+}
