@@ -1,1 +1,1 @@
-"# passwordgenerater" 
+this project is GenerateRandom password they give and in this project we can use html,css ,javascript here javascript different concept are used like document object model,event,math random function etc concept are used 
